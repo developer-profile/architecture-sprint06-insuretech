@@ -1,0 +1,1 @@
+# architecture-sprint06-insuretech
